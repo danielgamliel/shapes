@@ -2,7 +2,7 @@
   <artifact type="jar" name="java practice:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/java_practice_jar</output-path>
     <root id="archive" name="java practice.jar">
-      <element id="module-output" name="java practice" />
+      <element id="module-output" name="shapes" />
       <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-test.jar" path-in-jar="/" />
