@@ -12,7 +12,7 @@ being less than quarter of size of the screen.
 build using Java, javafx and construct using Scene Builder. 
 
 ##  execution
-    There is a jar file and an exe file in /out/artifacts/shapes_jar
+    There is a jar file and an exe called ShapesGenerator.
 
 ### `Using the app`
      Click on the "create shapes" button to generate shapes
