@@ -1,5 +1,7 @@
 # This is a Shapes generator
 
+## This project is an assignment of Java advance course in the Open University.
+
 This project is a random shapes generator of 3 types of shapes
 
 Polygons, Ellipses and Lines.
